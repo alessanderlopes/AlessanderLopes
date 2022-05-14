@@ -12,7 +12,7 @@
 
 <div align="center">  
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=alessanderlopes&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&theme=github_dark&layout=compact&langs_count=6"/>
+  <img height="180em" width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessanderlopes&theme=github_dark&layout=compact&langs_count=6"/>
 </div>
 
 ##
