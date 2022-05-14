@@ -11,8 +11,8 @@
 <p align="center">Front-End and Digital Games.</p>
 
 <div align="center">  
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=alessanderlopes&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessanderlopes&theme=github_dark&layout=compact&langs_count=6"/>
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=AlessanderLopes&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessanderLopes&theme=github_dark&layout=compact&langs_count=6"/>
 </div>
 
 ##
@@ -44,4 +44,4 @@
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">    
 </div>
 
-![Snake animation](https://github.com/alessanderlopes/alessanderlopes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AlessanderLopes/AlessanderLopes/blob/output/github-contribution-grid-snake.svg)
