@@ -16,6 +16,15 @@
 
 <br> <!-- SEPARAÇÃO -->
 
+<div align="left">  
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=alessanderlopes&include_all_commits=true&count_private=true&theme=github_dark&show_icons=true&hide_title=true&hide_rank=true&line_height=24&hide_border=true"/>
+  <img height="180em" width=49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessanderlopes&langs_count=8&theme=github_dark&layout=compact&hide_title=true&hide_border=true"/>
+</div>
+
+##
+
+<br> <!-- SEPARAÇÃO -->
+
 <div>
   <ul>
     <li> 🔭 My name is Alessander, but my friends call me by ANDER ...</li>
@@ -52,10 +61,5 @@
 <br> <!-- SEPARAÇÃO -->
 
 ##
-  
-<div align="center">  
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=alessanderlopes&include_all_commits=true&count_private=true&theme=github_dark&show_icons=true&hide_title=true&hide_rank=true&line_height=24&hide_border=true"/>
-  <img height="180em" width=49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessanderlopes&langs_count=8&theme=github_dark&layout=compact&hide_title=true&hide_border=true"/>
-</div>
 
 ![Snake animation](https://github.com/alessanderlopes/alessanderlopes/blob/output/github-contribution-grid-snake.svg)
