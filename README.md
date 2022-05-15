@@ -2,27 +2,32 @@
   <h1>Hello World 🖖🏻, Welcome to my repository!</h1>
 </div>
 
+<br> <!-- SEPARAÇÃO -->
+
 <div align="center"> 
   <a href="https://www.linkedin.com/in/alessanderlopes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
   <a href="https://instagram.com/alessanderlops/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:devanderlopes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+<br> <!-- SEPARAÇÃO -->
+
 <p align="center">Front-End and Digital Games.</p>
 
-<div align="center">  
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=alessanderlopes&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessanderlopes&theme=github_dark&layout=compact&langs_count=6"/>
-</div>
+<br> <!-- SEPARAÇÃO -->
 
-##
-
-- 🔭 My name is Alessander, but my friends call me by ANDER ...
-- 🌱 I have 27 years old ...
-- 👯 I'm from Brazil, specifically from Rio Grande do Sul ...
-- 🤔 I also love games, that's what I'm studying at college at the moment ...
-- 💬 I have Tourette Syndrom associated with ADD and Anxiety, but I'm super ok with that.
-
+<div>
+  <ul>
+    <li> 🔭 My name is Alessander, but my friends call me by ANDER ...</li>
+    <li> 🌱 I have 27 years old ...</li>
+    <li> 👯 I'm from Brazil, specifically from Rio Grande do Sul ...</li>
+    <li> 🤔 I also love games, that's what I'm studying at college at the moment ...</li>
+    <li> 💬 I have Tourette Syndrom associated with ADD and Anxiety, but I'm super ok with that.</li>
+  </ul>
+<div>
+  
+<br> <!-- SEPARAÇÃO -->
+  
 ### 👨🏼‍🎓 Learning at college
 <div align="left">  
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=whit">  
@@ -42,6 +47,15 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">    
+</div>
+  
+<br> <!-- SEPARAÇÃO -->
+
+##
+  
+<div align="center">  
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=alessanderlopes&include_all_commits=true&count_private=true&theme=github_dark&show_icons=true&hide_title=true&hide_rank=true&line_height=24&hide_border=true"/>
+  <img height="180em" width=49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessanderlopes&langs_count=8&theme=github_dark&layout=compact&hide_title=true&hide_border=true"/>
 </div>
 
 ![Snake animation](https://github.com/alessanderlopes/alessanderlopes/blob/output/github-contribution-grid-snake.svg)
